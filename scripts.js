@@ -1,5 +1,5 @@
 // 예시로 가상의 사용자 아이디 배열을 만들어 사용합니다.
-const onlineUsers = ['오로라', '둥둥', '랄라', '디어', '라마'];
+const onlineUsers = ['오로라', '랄라', '디어'];
 
 // 페이지가 로드되면 실행되는 함수
 document.addEventListener('DOMContentLoaded', () => {
